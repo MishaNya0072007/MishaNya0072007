@@ -1,6 +1,6 @@
 ## Hi, my name is Misha! 👋
 
-🔭 I am **ITMO** student | AI engineering 🎓  
+🔭 I am **ITMO** student | AI Engineering 🎓  
 🔑 My ITMO ID: **502701** 🔍
 
 ---
