@@ -17,7 +17,7 @@
 ## Skills
 😝 **Languages:** Python, C, little bit Java📓  
 :octocat: **Working tools:** GetBrains tools, Git, GitHub, VirtualBox  
-*Also, I can create a beat for you in FL Studio*
+*Also, I can create a beat in FL Studio for you*
 
 ---
 
